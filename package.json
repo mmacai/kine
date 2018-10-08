@@ -1,6 +1,6 @@
 {
   "name": "@mapbox/kine",
-  "version": "3.3.1",
+  "version": "3.3.2",
   "description": "Simple client for kinesis",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
     "bignumber.js": "^2.4.0",
     "d3-queue": "^3.0.7",
     "fastlog": "^1.1.0",
-    "lodash": "^3.7.0"
+    "lodash": "^4.17.11"
   },
   "devDependencies": {
     "coveralls": "^2.11.2",
